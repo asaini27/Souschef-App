@@ -7,3 +7,5 @@
 - Use **Expo’s built-in APIs** to handle audio and speech processing directly on the mobile device.
 - Integrate with a recipe API to fetch relevant cooking data.
 - Have an engaging cooking experience through **a conversational interface** triggered by tapping a chef icon.
+
+🎥 [Watch Demo](https://drive.google.com/file/d/1b28eJY8RsijSuI2b7p8ipRrO9q26TuVW/view?usp=sharing)
